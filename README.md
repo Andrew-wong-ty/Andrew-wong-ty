@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, this is Tianyin, nice to meet you!
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrew-wong-ty&hide=prs" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-wong-ty&layout=compact&hide=C,html,Vue,jupyter%20notebook" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-wong-ty&hide=contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-wong-ty&layout=compact&hide=C,html,Vue,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **Andrew-wong-ty/Andrew-wong-ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
