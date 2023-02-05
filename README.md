@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Socket programming in C/C++ on Linux, because I want to build my own online cloud storage service (like OneDrive).
 
-![Tianyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-wong-ty&hide=contribs,prs)
+![Tianyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-wong-ty&hide=contribs,issues)
 
 <!-- | ![Tianyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-wong-ty&hide=contribs,prs)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-wong-ty&layout=compact&hide=C,html,Vue,jupyter%20notebook) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
