@@ -1,8 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"/> Hi, I'm Tianyin, nice to meet you!</h1>
 
-<!-- - 🌱 I’m currently learning Socket programming in C/C++ on Linux, because I want to build my own online cloud storage service (like OneDrive). -->
+<!-- - 🌱 I’m currently learning Socket programming in C/C++ on Linux, because I want to build my own online cloud storage service (like OneDrive).
 
-![Tianyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-wong-ty&hide=contribs,issues)
+![Tianyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-wong-ty&hide=contribs,issues)  -->
 
 <!-- | ![Tianyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-wong-ty&hide=contribs,prs)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-wong-ty&layout=compact&hide=C,html,Vue,jupyter%20notebook) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
